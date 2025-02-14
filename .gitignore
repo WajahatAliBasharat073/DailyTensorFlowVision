@@ -1,2 +1,4 @@
 myenv/
-./myenv
+./myenv/
+windows_10_cmake_Release_Graphviz-12.2.1-win64/
+./windows_10_cmake_Release_Graphviz-12.2.1-win64/
